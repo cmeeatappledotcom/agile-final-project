@@ -1,4 +1,4 @@
-# final_graded_lab
+# agile-final-lab
 
 Hello anyone reading this. Creating a final for the Coursera course "Intro to Agile Development and Scrum". 
 
